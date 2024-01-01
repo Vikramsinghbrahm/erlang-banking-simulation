@@ -15,7 +15,7 @@ The project has the following structure:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/erlang-banking-simulation.git
+git clone https://github.com/vikramsinghbrahm/erlang-banking-simulation.git
 cd erlang-banking-simulation
 ```
 ### 2. Compile the Erlang Files
